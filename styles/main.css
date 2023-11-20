@@ -11,7 +11,7 @@ body {
   height: 100vh;
   display: grid;
   place-items: center;
-  background: rgba(0, 0, 0, .55) url(https://cdn.discordapp.com/attachments/488136076423200768/1049975758459781130/DALLE_2022-12-07_06.08.36_-_digital_art_of_a_laboratory_blue_and_red_lighting_cyberpunk.png);
+  background: rgba(0, 0, 0, .55) url(/images/background.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
